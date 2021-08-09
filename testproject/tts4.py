@@ -30,6 +30,7 @@ for i in range(100):
 
 print(num_f)
 
+
 # az eredmény értékelése:
 try:
     assert num_f >= 30
